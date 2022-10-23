@@ -1,0 +1,4 @@
+github.com/abiosoft/semaphore v0.0.0-20180811165425-cb737ff681bd h1:uk27QHZe1wdJe0GinLEzM4j9SFnHRch7yjvBe70YnJ4=
+github.com/abiosoft/semaphore v0.0.0-20180811165425-cb737ff681bd/go.mod h1:Kqn7/fS2RMB9yaSd1KegoEtuugHW0P9Ia/cJyAmECNw=
+golang.org/x/sync v0.0.0-20220929204114-8fcdb60fdcc0 h1:cu5kTvlzcw1Q5S9f5ip1/cpiB4nXvw1XYzFPGgzLUOY=
+golang.org/x/sync v0.0.0-20220929204114-8fcdb60fdcc0/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
